@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: DNKDRQM9P37ERQTLWCNF7YV7M9RHSMKE -->
+
 # Google Gemini PHP API Example & Test Generator
 
 This repository demonstrates how to connect to the Google Gemini API using PHP, and provides a simple test generator for e-commerce product descriptions.
